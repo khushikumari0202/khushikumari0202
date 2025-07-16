@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🛰️ I’m currently working on<br>A grocery shopping website called JhatpatGrocery, and a smart home dashboard project called EcoSense.<br><br>🤝 I’m looking to collaborate on<br>Web development projects, especially those involving React.js, Node.js, and creative UI/UX design.<br><br>🤲 I’m looking for help with<br>Backend integration and managing real-time data updates efficiently.<br><br>🌱 I’m currently learning<br>Distributed Systems, Operating Systems, and working with IBM watsonx.ai for AI integration.<br><br>💬 Ask me about<br>Building modern websites using React + Tailwind CSS, designing smart dashboards, or setting up user-friendly grocery platforms.<br><br>⚡ Fun fact<br>I enjoy turning daily-life ideas into digital solutions — like JhatpatGrocery for quick grocery needs!
+🛰️ I’m currently working on<br>A AI based interview platform to help me prep for interview.<br><br>🤝 I’m looking to collaborate on<br>Web development projects, especially those involving React.js, Node.js, and creative UI/UX design.<br><br>🤲 I’m looking for help with<br>Backend integration and managing real-time data updates efficiently.<br><br>🌱 I’m currently learning<br>Distributed Systems, Operating Systems, and working with IBM watsonx.ai for AI integration.<br><br>💬 Ask me about<br>Anything but not about me.<br><br>⚡ Fun fact<br>I enjoy turning daily-life ideas into digital solutions.
 
 
 ## 🌐 Socials:
